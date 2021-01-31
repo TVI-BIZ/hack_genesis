@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/poppins.woff") format("woff");
+}
+
+.App {
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+}
